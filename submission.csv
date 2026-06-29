@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0081846,1,95.04,"6.7 years relevant experience; skills: python, machine learning, embeddings; actively looking; high recruiter response"
+CAND_0068351,2,90.05,"6.4 years relevant experience; skills: python, machine learning; high recruiter response"
+CAND_0081686,3,89.17,"6.0 years relevant experience; skills: python, machine learning, embeddings; high recruiter response"
+CAND_0005260,4,86.95,"5.2 years relevant experience; skills: python, embeddings; high recruiter response"
+CAND_0037944,5,85.35,"4.9 years relevant experience; skills: python, machine learning, embeddings; actively looking; strong github activity"
+CAND_0091254,6,84.2,"5.2 years relevant experience; skills: python, machine learning; actively looking"
+CAND_0048660,7,84.12,"5.2 years relevant experience; skills: python, machine learning; actively looking"
+CAND_0044855,8,83.68,"6.6 years relevant experience; skills: machine learning, embeddings"
+CAND_0051630,9,83.47,"6.0 years relevant experience; skills: python, machine learning, embeddings; strong github activity"
+CAND_0061257,10,82.61,"8.0 years relevant experience; skills: python, machine learning; actively looking; high recruiter response"
+CAND_0052682,11,82.42,"6.6 years relevant experience; skills: python, embeddings; actively looking; high recruiter response; strong github activity"
+CAND_0071974,12,82.19,"7.8 years relevant experience; skills: machine learning, embeddings; actively looking; high recruiter response; strong github activity"
+CAND_0011489,13,80.81,"5.8 years relevant experience; skills: python, embeddings; actively looking; strong github activity"
+CAND_0058688,14,80.45,"6.7 years relevant experience; skills: machine learning, embeddings; actively looking; high recruiter response"
+CAND_0036121,15,80.39,"5.2 years relevant experience; skills: machine learning, embeddings; actively looking; strong github activity"
+CAND_0027691,16,79.48,"6.5 years relevant experience; skills: python, embeddings; actively looking"
+CAND_0066798,17,79.0,"5.1 years relevant experience; skills: machine learning, embeddings"
+CAND_0029971,18,78.5,"5.4 years relevant experience; skills: machine learning, embeddings; actively looking"
+CAND_0091745,19,78.19,"5.9 years relevant experience; skills: machine learning, embeddings"
+CAND_0064888,20,78.12,"5.8 years relevant experience; skills: machine learning, embeddings; actively looking; high recruiter response"
+CAND_0030946,21,77.72,"6.7 years relevant experience; skills: machine learning, embeddings; actively looking"
+CAND_0055905,22,77.7,"8.1 years relevant experience; skills: python, embeddings; actively looking; high recruiter response"
+CAND_0064256,23,77.65,"6.4 years relevant experience; skills: python, embeddings; actively looking; high recruiter response"
+CAND_0016163,24,76.45,"6.7 years relevant experience; skills: machine learning, embeddings; actively looking; high recruiter response; strong github activity"
+CAND_0083307,25,76.11,"7.8 years relevant experience; skills: python, embeddings; actively looking; strong github activity"
+CAND_0076412,26,75.89,"5.8 years relevant experience; skills: python, machine learning; actively looking; strong github activity"
+CAND_0015578,27,74.19,"5.4 years relevant experience; skills: machine learning, embeddings; actively looking"
+CAND_0012957,28,73.72,"4.9 years relevant experience; skills: python, machine learning, embeddings"
+CAND_0059017,29,72.66,"6.8 years relevant experience; skills: python, machine learning; actively looking; high recruiter response; strong github activity"
+CAND_0050876,30,72.5,"6.0 years relevant experience; skills: python, machine learning; actively looking; strong github activity"
+CAND_0010257,31,72.47,"6.5 years relevant experience; skills: python, machine learning; actively looking; high recruiter response"
+CAND_0030348,32,72.35,"4.5 years relevant experience; skills: python, embeddings; actively looking"
+CAND_0046459,33,71.3,"4.5 years relevant experience; skills: python, machine learning; actively looking; high recruiter response"
+CAND_0007596,34,71.15,"4.4 years relevant experience; skills: python, machine learning; actively looking; high recruiter response"
+CAND_0002025,35,70.89,5.9 years relevant experience; skills: python; actively looking; high recruiter response; strong github activity
+CAND_0061819,36,70.02,"5.0 years relevant experience; skills: python, machine learning; actively looking; high recruiter response"
+CAND_0044091,37,69.88,"6.5 years relevant experience; skills: python, machine learning; actively looking"
+CAND_0065450,38,69.8,"4.0 years relevant experience; skills: machine learning, embeddings; actively looking"
+CAND_0099401,39,69.7,"7.7 years relevant experience; skills: python, embeddings"
+CAND_0020494,40,69.69,"5.9 years relevant experience; skills: python, embeddings"
+CAND_0070398,41,69.36,"7.2 years relevant experience; skills: python, embeddings; actively looking; strong github activity"
+CAND_0087316,42,69.1,"4.1 years relevant experience; skills: python, machine learning; high recruiter response"
+CAND_0008978,43,69.09,"6.7 years relevant experience; skills: machine learning, embeddings; strong github activity"
+CAND_0094056,44,68.79,"5.9 years relevant experience; skills: machine learning, embeddings; high recruiter response; strong github activity"
+CAND_0032270,45,68.05,"4.4 years relevant experience; skills: python, embeddings; strong github activity"
+CAND_0060538,46,67.65,"5.2 years relevant experience; skills: machine learning, embeddings; actively looking"
+CAND_0075138,47,67.25,"4.6 years relevant experience; skills: python, embeddings; actively looking"
+CAND_0011125,48,66.33,"6.6 years relevant experience; skills: machine learning, embeddings; strong github activity"
+CAND_0032515,49,66.07,5.1 years relevant experience; skills: machine learning; strong github activity
+CAND_0064270,50,65.55,"4.2 years relevant experience; skills: machine learning, embeddings; high recruiter response"
+CAND_0042029,51,64.99,6.5 years relevant experience; skills: embeddings; strong github activity
+CAND_0011263,52,64.8,5.1 years relevant experience; skills: machine learning; actively looking
+CAND_0055139,53,64.36,"6.9 years relevant experience; skills: python, machine learning; actively looking"
+CAND_0064326,54,64.27,7.6 years relevant experience; skills: python; actively looking; high recruiter response; strong github activity
+CAND_0065393,55,63.55,"6.8 years relevant experience; skills: python, machine learning, embeddings"
+CAND_0017960,56,63.42,"7.7 years relevant experience; skills: python, machine learning; actively looking; high recruiter response; strong github activity"
+CAND_0006567,57,63.36,7.9 years relevant experience; skills: python; actively looking; high recruiter response
+CAND_0046525,58,63.29,6.1 years relevant experience; skills: machine learning; actively looking; high recruiter response
+CAND_0046064,59,63.27,8.9 years relevant experience; skills: python; actively looking; high recruiter response; strong github activity
+CAND_0074225,60,63.27,"4.3 years relevant experience; skills: python, machine learning; actively looking; high recruiter response"
+CAND_0098952,61,63.16,5.5 years relevant experience; skills: python; actively looking
+CAND_0059795,62,63.03,"5.6 years relevant experience; skills: python, machine learning; actively looking; high recruiter response"
+CAND_0003977,63,62.52,"4.6 years relevant experience; skills: python, machine learning, embeddings"
+CAND_0087630,64,62.41,7.2 years relevant experience; skills: embeddings
+CAND_0018499,65,61.79,7.2 years relevant experience; skills: embeddings; actively looking; strong github activity
+CAND_0030031,66,61.37,5.7 years relevant experience; skills: python; high recruiter response
+CAND_0010541,67,61.21,6.2 years relevant experience; skills: python; actively looking
+CAND_0064904,68,61.1,"4.9 years relevant experience; skills: python, embeddings; actively looking; high recruiter response"
+CAND_0052335,69,60.95,6.4 years relevant experience; skills: machine learning; actively looking; high recruiter response
+CAND_0066999,70,60.92,"5.9 years relevant experience; skills: machine learning, embeddings; actively looking; strong github activity"
+CAND_0007009,71,60.91,"7.9 years relevant experience; skills: python, embeddings; actively looking; strong github activity"
+CAND_0098288,72,60.86,6.7 years relevant experience; skills: python; actively looking
+CAND_0088025,73,60.63,8.6 years relevant experience; skills: python; actively looking; high recruiter response; strong github activity
+CAND_0060072,74,60.57,"5.7 years relevant experience; skills: machine learning, embeddings; strong github activity"
+CAND_0074326,75,60.5,6.4 years relevant experience; skills: machine learning; actively looking; high recruiter response
+CAND_0042596,76,60.45,"5.2 years relevant experience; skills: python, machine learning; actively looking; high recruiter response"
+CAND_0043228,77,60.13,6.8 years relevant experience; skills: machine learning
+CAND_0003609,78,60.13,"6.1 years relevant experience; skills: python, machine learning; strong github activity"
+CAND_0037160,79,60.1,6.0 years relevant experience; skills: embeddings; actively looking; high recruiter response
+CAND_0068596,80,60.06,"4.3 years relevant experience; skills: machine learning, embeddings; actively looking"
+CAND_0072660,81,60.05,7.1 years relevant experience; skills: python; actively looking
+CAND_0070525,82,60.02,"5.4 years relevant experience; skills: python, embeddings; actively looking; high recruiter response"
+CAND_0054441,83,59.75,"7.9 years relevant experience; skills: python, machine learning; actively looking; high recruiter response"
+CAND_0004028,84,59.7,"6.4 years relevant experience; skills: python, machine learning; actively looking"
+CAND_0049538,85,59.49,5.8 years relevant experience; skills: embeddings; high recruiter response; strong github activity
+CAND_0007052,86,59.45,6.5 years relevant experience; skills: machine learning; actively looking; high recruiter response
+CAND_0030784,87,59.38,"4.4 years relevant experience; skills: python, embeddings; actively looking; high recruiter response"
+CAND_0080766,88,59.34,8.8 years relevant experience; skills: python
+CAND_0057563,89,59.34,6.8 years relevant experience; skills: machine learning; high recruiter response
+CAND_0024990,90,59.2,5.2 years relevant experience; actively looking; high recruiter response; strong github activity
+CAND_0000031,91,59.18,"6.0 years relevant experience; skills: machine learning, embeddings; actively looking; high recruiter response"
+CAND_0040192,92,59.18,"7.0 years relevant experience; skills: python, embeddings; actively looking"
+CAND_0058300,93,59.15,"4.5 years relevant experience; skills: python, machine learning; actively looking"
+CAND_0078002,94,59.13,6.3 years relevant experience; actively looking; high recruiter response
+CAND_0076163,95,59.03,6.9 years relevant experience; skills: python; actively looking; high recruiter response; strong github activity
+CAND_0098217,96,58.98,6.4 years relevant experience; skills: machine learning; actively looking; high recruiter response; strong github activity
+CAND_0077337,97,58.8,7.0 years relevant experience; skills: python; actively looking; high recruiter response; strong github activity
+CAND_0079387,98,58.75,6.9 years relevant experience; skills: python; actively looking; high recruiter response; strong github activity
+CAND_0087778,99,58.75,5.8 years relevant experience; skills: embeddings; actively looking; high recruiter response
+CAND_0022870,100,58.68,"6.7 years relevant experience; skills: python, embeddings; actively looking"
